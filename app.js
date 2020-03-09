@@ -29,7 +29,7 @@ function isHiddenFile( name ) {
  * @return {boolean} Whether object represents the root directory.
  */
 function isDirectoryObject( object ) {
-	return object.Name.split( '/' ).length === 1;
+	return !! object.Hash && object.Name.split( '/' ).length === 1;
 }
 
 /**
