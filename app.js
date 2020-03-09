@@ -65,7 +65,7 @@ function toggleUploadInProgress( isInProgress ) {
 	clearInterval( progressInterval );
 	if ( isInProgress ) {
 		progressInterval = setInterval( function() {
-			progress.value = Math.min( Number( progress.value ) + .08, 95 );
+			progress.value = Math.min( Number( progress.value ) + .05, 95 );
 		}, 16 );
 	}
 
