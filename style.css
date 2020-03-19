@@ -27,8 +27,10 @@ body {
 	margin: 0 auto;
 }
 
-h1 {
+h1,
+#description {
 	text-align: center;
+	margin: 2rem 0;
 }
 
 form {
