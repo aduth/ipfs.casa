@@ -1,6 +1,6 @@
 # ipfs.casa 🏠
 
-[**ipfs.casa**](https://ipfs.casa) is a simple static web app which serves to provide a [Netlify](https://www.netlify.com/)-like developer experience for simple, free static site hosting _on the distributed web_.
+**ipfs.casa** is a simple static web app which serves to provide a [Netlify](https://www.netlify.com/)-like developer experience for simple, free static site hosting _on the distributed web_.
 
 <img width="1032" alt="ipfs.casa homepage" src="https://user-images.githubusercontent.com/1779930/76175972-57cfc400-6185-11ea-9bc1-1ad4f6130992.png">
 
